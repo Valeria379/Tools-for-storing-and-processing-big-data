@@ -1,0 +1,104 @@
+Product Name;Category;Supplier;Origin Country;Last Delivery Date;Price
+Gala Apple;Fruits;Fresh Farms Ltd.;USA;15.08.2023;0,52
+Banana;Fruits;Tropicana Suppliers;Ecuador;16.08.2023;0,37
+Carrot;Vegetables;Green Valley Organics;Netherlands;18.08.2023;0,41
+Chicken Breast;Meat;Prime Meats Co.;USA;17.08.2023;0,91
+Almond Milk;Beverages;NutriLife Foods;USA;21.08.2023;0,44
+Whole Grain Quinoa;Grains;Organic Grains Co.;Peru;20.08.2023;0,48
+Cheddar Cheese;Dairy;Dairyland Ltd.;UK;19.08.2023;0,53
+Tomato;Vegetables;Farm Fresh Inc.;Spain;18.08.2023;0,45
+Basmati Rice;Grains;Asian Foods;India;23.08.2023;0,65
+Orange Juice;Beverages;Citrus Groves;Brazil;25.08.2023;0,59
+Blueberries;Fruits;BerryBest Farms;Canada;24.08.2023;0,63
+Salmon Fillet;Fish;Ocean Fresh Co.;Norway;22.08.2023;0,99
+Broccoli;Vegetables;Veggie Delight;Italy;27.08.2023;0,27
+Whole Wheat Bread;Bakery;Baker's Choice;Germany;30.08.2023;0,80
+Greek Yogurt;Dairy;Mediterranean Dairy;Greece;28.08.2023;0,47
+Olive Oil;Oil;Golden Harvest;Spain;29.08.2023;0,34
+Avocado;Fruits;Tropico Harvest;Mexico;24.08.2023;0,22
+Pasta Fusilli;Grains;Italian Pasta Co.;Italy;25.08.2023;0,46
+Ground Beef;Meat;Meat Lovers Inc.;Australia;21.08.2023;0,90
+Mozzarella Cheese;Dairy;Cheese World;Italy;19.08.2023;0,91
+Spinach;Vegetables;Leafy Greens Ltd.;USA;23.08.2023;0,75
+Oat Milk;Beverages;Healthy Drinks Co.;Sweden;20.08.2023;0,12
+Pineapple;Fruits;Tropical Harvesters;Costa Rica;27.08.2023;0,50
+Butter;Dairy;Creamery Co.;France;18.08.2023;0,25
+Chickpeas;Grains;Legume World;Turkey;26.08.2023;0,02
+Cucumber;Vegetables;Veggie Fresh Co.;Netherlands;25.08.2023;0,12
+Coconut Water;Beverages;Tropical Drinks Ltd.;Thailand;22.08.2023;0,18
+Dark Chocolate;Snacks;ChocoDelight;Belgium;29.08.2023;0,37
+Frozen Peas;Frozen Foods;Frozen Delights;Poland;30.08.2023;0,41
+Rice Cakes;Snacks;Asian Delights Co.;South Korea;24.08.2023;0,61
+Maple Syrup;Condiments;Maple Haven Farms;Canada;26.08.2023;0,37
+Cashew Nuts;Nuts;NutriNuts Ltd.;Vietnam;25.08.2023;0,98
+Zucchini;Vegetables;Green Leaf Farms;Mexico;28.08.2023;0,32
+Feta Cheese;Dairy;Mediterranean Dairy;Greece;24.08.2023;0,45
+Tuna;Fish;Oceanic Seafoods Co.;Japan;29.08.2023;0,25
+Pita Bread;Bakery;Baker's Choice;Lebanon;27.08.2023;0,19
+Black Beans;Grains;Legume World;Brazil;28.08.2023;0,86
+Lamb Chops;Meat;Meat Masters Inc.;New Zealand;30.08.2023;0,49
+Kombucha;Beverages;Healthy Drinks Co.;USA;21.08.2023;0,83
+Pumpkin;Vegetables;Organic Farms;USA;30.08.2023;0,60
+Oysters;Seafood;Ocean Harvest;Canada;27.08.2023;0,31
+Couscous;Grains;Mediterranean Grains Co.;Morocco;23.08.2023;0,85
+Parmesan Cheese;Dairy;Italian Cheese Co.;Italy;26.08.2023;0,77
+Almond Butter;Condiments;Nutty Foods Ltd.;USA;24.08.2023;0,12
+Tofu;Vegetarian;Vegan Life Foods;Japan;22.08.2023;0,44
+Green Beans;Vegetables;Fresh Farms Ltd.;USA;27.08.2023;0,22
+Sourdough Bread;Bakery;Artisan Bakers;France;29.08.2023;0,34
+Dark Rye Flour;Grains;Baker's Delight;Germany;28.08.2023;0,68
+Organic Honey;Condiments;BeeWell Farms;New Zealand;26.08.2023;0,14
+Grape Juice;Beverages;Fruity Beverages Co.;South Africa;30.08.2023;0,38
+Coconut Oil;Oil;Pure Tropics Co.;Philippines;25.08.2023;0,87
+Pistachios;Nuts;NutriNuts Ltd.;Iran;28.08.2023;0,37
+White Mushrooms;Vegetables;Veggie Fresh Co.;Poland;27.08.2023;0,03
+Sardines;Fish;Mediterranean Seafoods Co.;Portugal;29.08.2023;0,99
+Cottage Cheese;Dairy;Creamery Delight;USA;25.08.2023;0,46
+Sweet Potatoes;Vegetables;Fresh Farms Ltd.;USA;26.08.2023;0,06
+Basil;Herbs;GreenLeaf Organics;Italy;27.08.2023;0,69
+Canned Corn;Canned Goods;FarmFresh Cans Ltd.;USA;24.08.2023;0,94
+Whole Milk;Dairy;Dairyland Ltd.;UK;25.08.2023;0,85
+Peanut Butter;Condiments;NutriLife Foods;USA;26.08.2023;0,79
+Shrimp;Seafood;Ocean Fresh Co.;Vietnam;28.08.2023;0,89
+Cranberries;Fruits;BerryBest Farms;USA;27.08.2023;0,02
+Red Lentils;Grains;Legume World;India;29.08.2023;0,77
+Miso Paste;Condiments;Asian Delights Co.;Japan;30.08.2023;0,92
+Black Tea;Beverages;Tea Traditions Ltd.;India;30.08.2023;0,45
+Olive Tapenade;Condiments;Mediterranean Delights Co.;Greece;28.08.2023;0,68
+Quail Eggs;Eggs;Golden Eggs Ltd.;France;24.08.2023;0,43
+Walnuts;Nuts;NutriNuts Ltd.;USA;25.08.2023;0,99
+Radishes;Vegetables;Veggie Fresh Co.;Netherlands;27.08.2023;0,91
+Greek Olives;Condiments;Mediterranean Delights Co.;Greece;29.08.2023;0,81
+Brie Cheese;Dairy;French Dairy Co.;France;24.08.2023;0,17
+Edamame;Vegetables;Organic Farms;Japan;26.08.2023;0,41
+Rye Crackers;Snacks;Baker's Choice;Sweden;30.08.2023;0,36
+Coconut Milk;Beverages;Tropical Foods Ltd.;Thailand;30.08.2023;0,69
+Hazelnut Spread;Condiments;Nutty Foods Ltd.;Italy;29.08.2023;0,65
+Swiss Cheese;Dairy;Alpine Dairy Co.;Switzerland;28.08.2023;0,30
+Grapes;Fruits;VineFresh Suppliers;USA;24.08.2023;0,69
+Camembert Cheese;Dairy;French Dairy Co.;France;27.08.2023;0,80
+Lentil Soup;Canned Goods;Healthy Cans Ltd.;Turkey;30.08.2023;0,92
+Avocado Oil;Oil;Organic Oils Ltd.;Mexico;28.08.2023;0,37
+Spaghetti;Grains;Italian Pasta Co.;Italy;26.08.2023;0,15
+Sliced Turkey Breast;Meat;Prime Meats Co.;USA;25.08.2023;0,62
+Strawberries;Fruits;BerryBest Farms;USA;29.08.2023;0,27
+Red Bell Peppers;Vegetables;Green Leaf Farms;Spain;30.08.2023;0,62
+Coconut Sugar;Condiments;Pure Tropics Co.;Philippines;27.08.2023;0,32
+Goat Cheese;Dairy;Mediterranean Dairy;Greece;28.08.2023;0,68
+Sweet Corn;Vegetables;Farm Fresh Inc.;USA;25.08.2023;0,40
+Oranges;Fruits;Citrus Groves;Spain;26.08.2023;0,35
+Macadamia Nuts;Nuts;NutriNuts Ltd.;South Africa;29.08.2023;0,31
+Kefir;Dairy;Probiotic Dairy Co.;USA;30.08.2023;0,79
+Baby Spinach;Vegetables;GreenLeaf Organics;USA;30.08.2023;0,51
+Millet;Grains;Organic Grains Co.;India;28.08.2023;0,72
+Blackberries;Fruits;BerryBest Farms;USA;27.08.2023;0,21
+Frozen Strawberries;Frozen Foods;Frozen Delights;Chile;26.08.2023;0,57
+Multigrain Crackers;Snacks;Baker's Choice;USA;30.08.2023;0,86
+Cabbage;Vegetables;Farm Fresh Inc.;USA;25.08.2023;0,61
+Seaweed Snacks;Snacks;Asian Delights Co.;Japan;30.08.2023;0,62
+Lamb Ground Meat;Meat;Meat Masters Inc.;Australia;29.08.2023;0,94
+Ricotta Cheese;Dairy;Italian Cheese Co.;Italy;28.08.2023;0,05
+Yellow Lentils;Grains;Legume World;India;29.08.2023;0,54
+Lemon Juice;Beverages;Citrus Groves;Italy;30.08.2023;0,05
+Gluten-Free Pasta;Grains;Italian Pasta Co.;Italy;30.08.2023;0,17
+Organic Kale Chips;Snacks;Leafy Greens Ltd.;USA;29.08.2023;0,99

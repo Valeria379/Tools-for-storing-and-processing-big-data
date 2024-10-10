@@ -1,0 +1,104 @@
+﻿ID_product;Product Name;Category;ID_supplier;Supplier;Origin Country;Expiration date;Price
+111;Gala Apple;Fruits;1199;Fresh Farms Ltd.;USA;15.08.2023;0,52
+112;Banana;Fruits;1200;Tropicana Suppliers;Ecuador;16.08.2023;0,37
+113;Carrot;Vegetables;1201;Green Valley Organics;Netherlands;18.08.2023;0,41
+114;Chicken Breast;Meat;1202;Prime Meats Co.;USA;17.08.2023;0,91
+115;Almond Milk;Beverages;1203;NutriLife Foods;USA;21.08.2023;0,44
+116;Whole Grain Quinoa;Grains;1204;Organic Grains Co.;Peru;20.08.2023;0,48
+117;Cheddar Cheese;Dairy;1205;Dairyland Ltd.;UK;19.08.2023;0,53
+118;Tomato;Vegetables;1206;Farm Fresh Inc.;Spain;18.08.2023;0,45
+119;Basmati Rice;Grains;1207;Asian Foods;India;23.08.2023;0,65
+120;Orange Juice;Beverages;1208;Citrus Groves;Brazil;25.08.2023;0,59
+121;Blueberries;Fruits;1209;BerryBest Farms;Canada;24.08.2023;0,63
+122;Salmon Fillet;Fish;1210;Ocean Fresh Co.;Norway;22.08.2023;0,99
+123;Broccoli;Vegetables;1211;Veggie Delight;Italy;27.08.2023;0,27
+124;Whole Wheat Bread;Bakery;1212;Baker's Choice;Germany;30.08.2023;0,8
+125;Greek Yogurt;Dairy;1213;Mediterranean Dairy;Greece;28.08.2023;0,47
+126;Olive Oil;Oil;1214;Golden Harvest;Spain;29.08.2023;0,34
+127;Avocado;Fruits;1215;Tropico Harvest;Mexico;24.08.2023;0,22
+128;Pasta Fusilli;Grains;1216;Italian Pasta Co.;Italy;25.08.2023;0,46
+129;Ground Beef;Meat;1217;Meat Lovers Inc.;Australia;21.08.2023;0,9
+130;Mozzarella Cheese;Dairy;1218;Cheese World;Italy;19.08.2023;0,91
+131;Spinach;Vegetables;1219;Leafy Greens Ltd.;USA;23.08.2023;0,75
+132;Oat Milk;Beverages;1220;Healthy Drinks Co.;Sweden;20.08.2023;0,12
+133;Pineapple;Fruits;1221;Tropical Harvesters;Costa Rica;27.08.2023;0,5
+134;Butter;Dairy;1222;Creamery Co.;France;18.08.2023;0,25
+135;Chickpeas;Grains;1223;Legume World;Turkey;26.08.2023;0,02
+136;Cucumber;Vegetables;1224;Veggie Fresh Co.;Netherlands;25.08.2023;0,12
+137;Coconut Water;Beverages;1225;Tropical Drinks Ltd.;Thailand;22.08.2023;0,18
+138;Dark Chocolate;Snacks;1226;ChocoDelight;Belgium;29.08.2023;0,37
+139;Frozen Peas;Frozen Foods;1227;Frozen Delights;Poland;30.08.2023;0,41
+140;Rice Cakes;Snacks;1228;Asian Delights Co.;South Korea;24.08.2023;0,61
+141;Maple Syrup;Condiments;1229;Maple Haven Farms;Canada;26.08.2023;0,37
+142;Cashew Nuts;Nuts;1230;NutriNuts Ltd.;Vietnam;25.08.2023;0,98
+143;Zucchini;Vegetables;1231;Green Leaf Farms;Mexico;28.08.2023;0,32
+144;Feta Cheese;Dairy;1232;Mediterranean Dairy;Greece;24.08.2023;0,45
+145;Tuna;Fish;1233;Oceanic Seafoods Co.;Japan;29.08.2023;0,25
+146;Pita Bread;Bakery;1234;Baker's Choice;Lebanon;27.08.2023;0,19
+147;Black Beans;Grains;1235;Legume World;Brazil;28.08.2023;0,86
+148;Lamb Chops;Meat;1236;Meat Masters Inc.;New Zealand;30.08.2023;0,49
+149;Kombucha;Beverages;1237;Healthy Drinks Co.;USA;21.08.2023;0,83
+150;Pumpkin;Vegetables;1238;Organic Farms;USA;30.08.2023;0,6
+151;Oysters;Seafood;1239;Ocean Harvest;Canada;27.08.2023;0,31
+152;Couscous;Grains;1240;Mediterranean Grains Co.;Morocco;23.08.2023;0,85
+153;Parmesan Cheese;Dairy;1241;Italian Cheese Co.;Italy;26.08.2023;0,77
+154;Almond Butter;Condiments;1242;Nutty Foods Ltd.;USA;24.08.2023;0,12
+155;Tofu;Vegetarian;1243;Vegan Life Foods;Japan;22.08.2023;0,44
+156;Green Beans;Vegetables;1244;Fresh Farms Ltd.;USA;27.08.2023;0,22
+157;Sourdough Bread;Bakery;1245;Artisan Bakers;France;29.08.2023;0,34
+158;Dark Rye Flour;Grains;1246;Baker's Delight;Germany;28.08.2023;0,68
+159;Organic Honey;Condiments;1247;BeeWell Farms;New Zealand;26.08.2023;0,14
+160;Grape Juice;Beverages;1248;Fruity Beverages Co.;South Africa;30.08.2023;0,38
+161;Coconut Oil;Oil;1249;Pure Tropics Co.;Philippines;25.08.2023;0,87
+162;Pistachios;Nuts;1250;NutriNuts Ltd.;Iran;28.08.2023;0,37
+163;White Mushrooms;Vegetables;1251;Veggie Fresh Co.;Poland;27.08.2023;0,03
+164;Sardines;Fish;1252;Mediterranean Seafoods Co.;Portugal;29.08.2023;0,99
+165;Cottage Cheese;Dairy;1253;Creamery Delight;USA;25.08.2023;0,46
+166;Sweet Potatoes;Vegetables;1254;Fresh Farms Ltd.;USA;26.08.2023;0,06
+167;Basil;Herbs;1255;GreenLeaf Organics;Italy;27.08.2023;0,69
+168;Canned Corn;Canned Goods;1256;FarmFresh Cans Ltd.;USA;24.08.2023;0,94
+169;Whole Milk;Dairy;1257;Dairyland Ltd.;UK;25.08.2023;0,85
+170;Peanut Butter;Condiments;1258;NutriLife Foods;USA;26.08.2023;0,79
+171;Shrimp;Seafood;1259;Ocean Fresh Co.;Vietnam;28.08.2023;0,89
+172;Cranberries;Fruits;1260;BerryBest Farms;USA;27.08.2023;0,02
+173;Red Lentils;Grains;1261;Legume World;India;29.08.2023;0,77
+174;Miso Paste;Condiments;1262;Asian Delights Co.;Japan;30.08.2023;0,92
+175;Black Tea;Beverages;1263;Tea Traditions Ltd.;India;30.08.2023;0,45
+176;Olive Tapenade;Condiments;1264;Mediterranean Delights Co.;Greece;28.08.2023;0,68
+177;Quail Eggs;Eggs;1265;Golden Eggs Ltd.;France;24.08.2023;0,43
+178;Walnuts;Nuts;1266;NutriNuts Ltd.;USA;25.08.2023;0,99
+179;Radishes;Vegetables;1267;Veggie Fresh Co.;Netherlands;27.08.2023;0,91
+180;Greek Olives;Condiments;1268;Mediterranean Delights Co.;Greece;29.08.2023;0,81
+181;Brie Cheese;Dairy;1269;French Dairy Co.;France;24.08.2023;0,17
+182;Edamame;Vegetables;1270;Organic Farms;Japan;26.08.2023;0,41
+183;Rye Crackers;Snacks;1271;Baker's Choice;Sweden;30.08.2023;0,36
+184;Coconut Milk;Beverages;1272;Tropical Foods Ltd.;Thailand;30.08.2023;0,69
+185;Hazelnut Spread;Condiments;1273;Nutty Foods Ltd.;Italy;29.08.2023;0,65
+186;Swiss Cheese;Dairy;1274;Alpine Dairy Co.;Switzerland;28.08.2023;0,3
+187;Grapes;Fruits;1275;VineFresh Suppliers;USA;24.08.2023;0,69
+188;Camembert Cheese;Dairy;1276;French Dairy Co.;France;27.08.2023;0,8
+189;Lentil Soup;Canned Goods;1277;Healthy Cans Ltd.;Turkey;30.08.2023;0,92
+190;Avocado Oil;Oil;1278;Organic Oils Ltd.;Mexico;28.08.2023;0,37
+191;Spaghetti;Grains;1279;Italian Pasta Co.;Italy;26.08.2023;0,15
+192;Sliced Turkey Breast;Meat;1280;Prime Meats Co.;USA;25.08.2023;0,62
+193;Strawberries;Fruits;1281;BerryBest Farms;USA;29.08.2023;0,27
+194;Red Bell Peppers;Vegetables;1282;Green Leaf Farms;Spain;30.08.2023;0,62
+195;Coconut Sugar;Condiments;1283;Pure Tropics Co.;Philippines;27.08.2023;0,32
+196;Goat Cheese;Dairy;1284;Mediterranean Dairy;Greece;28.08.2023;0,68
+197;Sweet Corn;Vegetables;1285;Farm Fresh Inc.;USA;25.08.2023;0,4
+198;Oranges;Fruits;1286;Citrus Groves;Spain;26.08.2023;0,35
+199;Macadamia Nuts;Nuts;1287;NutriNuts Ltd.;South Africa;29.08.2023;0,31
+200;Kefir;Dairy;1288;Probiotic Dairy Co.;USA;30.08.2023;0,79
+201;Baby Spinach;Vegetables;1289;GreenLeaf Organics;USA;30.08.2023;0,51
+202;Millet;Grains;1290;Organic Grains Co.;India;28.08.2023;0,72
+203;Blackberries;Fruits;1291;BerryBest Farms;USA;27.08.2023;0,21
+204;Frozen Strawberries;Frozen Foods;1292;Frozen Delights;Chile;26.08.2023;0,57
+205;Multigrain Crackers;Snacks;1293;Baker's Choice;USA;30.08.2023;0,86
+206;Cabbage;Vegetables;1294;Farm Fresh Inc.;USA;25.08.2023;0,61
+207;Seaweed Snacks;Snacks;1295;Asian Delights Co.;Japan;30.08.2023;0,62
+208;Lamb Ground Meat;Meat;1296;Meat Masters Inc.;Australia;29.08.2023;0,94
+209;Ricotta Cheese;Dairy;1297;Italian Cheese Co.;Italy;28.08.2023;0,05
+210;Yellow Lentils;Grains;1298;Legume World;India;29.08.2023;0,54
+211;Lemon Juice;Beverages;1299;Citrus Groves;Italy;30.08.2023;0,05
+212;Gluten-Free Pasta;Grains;1300;Italian Pasta Co.;Italy;30.08.2023;0,17
+213;Organic Kale Chips;Snacks;1301;Leafy Greens Ltd.;USA;29.08.2023;0,99
